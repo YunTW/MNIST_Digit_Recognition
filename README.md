@@ -1,8 +1,18 @@
 # MNIST Digit Recognition
 
+![python](https://img.shields.io/badge/Python-27338e?style=for-the-badge&logo=python&logoColor=white) ![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+
 This is a Streamlit web application for recognizing hand-drawn digits from 0 to 9 using a pre-trained deep learning model. Users can draw a digit on the canvas provided, and the application will classify and display the predicted digit.
 
-## Install
+## Table of content
+
+- [MNIST Digit Recognition](#mnist-digit-recognition)
+  - [Table of content](#table-of-content)
+  - [Installation](#installation)
+  - [Usage](#usage)
+  - [Contact](#contact)
+
+## Installation
 
 ```bash
 pip install opencv-contrib-python
@@ -28,3 +38,7 @@ pip install streamlit-drawble-canvas
    ![7](./result/7.png)
    ![8](./result/8.png)
    ![9](./result/9.png)
+
+## Contact
+
+[![Github](https://img.shields.io/badge/Github-100000.svg?logo=github&logoColor=white)](https://github.com/YunTW) [![Linkedin](https://img.shields.io/badge/Linkedin-0077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuntw/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](terrell60813@gmail.com)
