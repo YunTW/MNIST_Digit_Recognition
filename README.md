@@ -1,6 +1,6 @@
 # MNIST Digit Recognition
 
-![python](https://img.shields.io/badge/Python-27338e?style=for-the-badge&logo=python&logoColor=white) ![opencv](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white) ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white) ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C.svg?logo=python&logoColor=white) ![OpenCV](https://img.shields.io/badge/Opencv-5C3EE8.svg?logo=Opencv&logoColor=white) ![tensorflow](https://img.shields.io/badge/TensorFlow-FF6F00.svg?logo=tensorflow&logoColor=white) ![streamlit](https://img.shields.io/badge/Streamlit-FF4B4B.svg?logo=streamlit&logoColor=white)
 
 This is a Streamlit web application for recognizing hand-drawn digits from 0 to 9 using a pre-trained deep learning model. Users can draw a digit on the canvas provided, and the application will classify and display the predicted digit.
 
